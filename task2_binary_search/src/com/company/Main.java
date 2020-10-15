@@ -30,6 +30,7 @@ public class Main {
             int guess = arrayList.get(mid);
             if (guess == number) {
                 index = mid;
+                break;
             }
             if (guess < number) {
                 low = mid + 1;
