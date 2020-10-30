@@ -2,10 +2,10 @@ package com.company;
 
 import static com.company.Test.allTest;
 
-public class Main {
+public class MergeSort {
 
     public static void main(String[] args) {
-        allTest(Main::mergeSort);
+        allTest(MergeSort::mergeSort);
     }
 
     public static int[] mergeSort(int[] list) {

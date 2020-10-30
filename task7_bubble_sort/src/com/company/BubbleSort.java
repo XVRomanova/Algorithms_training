@@ -1,9 +1,9 @@
 package com.company;
 import static com.company.Test.allTest;
-public class Main {
+public class BubbleSort {
 
     public static void main(String[] args) {
-        allTest(Main::bubbleSort);
+        allTest(BubbleSort::bubbleSort);
     }
 
     public static int[] bubbleSort(int[] list) {

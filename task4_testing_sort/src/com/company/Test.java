@@ -23,7 +23,7 @@ public class Test {
         int[] output1 = new int[]{-5, -1, 2, 6, 7, 8};
         int[] output2 = new int[]{1, 1, 1};
         int[] output3 = new int[]{-6, -5, -4, -3, -2, -1};
-        int[] output4 = new int[0];
+        int[] output4 = new int[0];Z
         int[] output5 = new int[]{2, 3, 4, 5};
         int[] output6 = new int[]{1, 1, 2, 3, 3};
         System.out.print("Test 1: ");

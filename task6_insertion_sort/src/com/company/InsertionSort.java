@@ -1,9 +1,9 @@
 package com.company;
 
-public class Main {
+public class InsertionSort {
 
     public static void main(String[] args) {
-        com.company.Test.allTest(Main::insertionSort);
+        com.company.Test.allTest(InsertionSort::insertionSort);
     }
 
     public static int[] insertionSort(int[] list) {

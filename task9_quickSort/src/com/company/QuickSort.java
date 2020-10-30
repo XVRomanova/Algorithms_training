@@ -4,11 +4,11 @@ import java.util.Arrays;
 
 import static com.company.Test.allTest;
 
-public class Main {
+public class QuickSort {
 
     public static void main(String[] args) {
 
-        allTest(Main::quickSort);
+        allTest(QuickSort::quickSort);
 
     }
 

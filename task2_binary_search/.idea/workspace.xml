@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="task2_binary_search:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,7 +24,29 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23c24b76-2d42-46d2-8a54-775fde2298ae" name="Default Changelist" comment="" />
+    <list default="true" id="23c24b76-2d42-46d2-8a54-775fde2298ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../task1_linear_search/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task5_selection_sort/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task6_insertion_sort/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7_bubble_sort/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_linear_search/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task1_linear_search/src/com/company/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task2_binary_search/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3_Searches_comparison/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task3_Searches_comparison/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task5_selection_sort/out/production/task4_testing_sort/com/company/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../task5_selection_sort/out/production/task4_testing_sort/com/company/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task5_selection_sort/out/production/task5_selection_sort/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task5_selection_sort/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task5_selection_sort/src/com/company/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task6_insertion_sort/out/production/task6_insertion_sort/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task6_insertion_sort/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task6_insertion_sort/src/com/company/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_bubble_sort/out/production/task7_bubble_sort/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_bubble_sort/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_bubble_sort/src/com/company/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task8_mergeSort/out/production/megreSort/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task8_mergeSort/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task8_mergeSort/src/com/company/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task9_quickSort/out/production/task9_quickSort/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task9_quickSort/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task9_quickSort/src/com/company/QuickSort.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,9 +64,26 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task1_linear_search/src/com/company/Main.java" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task7_bubble_sort" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.BinarySearch" />
+      <module name="task2_binary_search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="task2_binary_search" />
@@ -52,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -77,28 +122,42 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="729" y="179" width="428" height="502" key="FileChooserDialogImpl" timestamp="1602379544986">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="3044" y="259" width="529" height="405" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604004998554">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="729" y="179" width="428" height="502" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602379544986" />
-    <state width="1874" height="284" key="GridCell.Tab.0.bottom" timestamp="1602379582056">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="3044" y="259" width="529" height="405" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604004998554" />
+    <state x="2639" y="89" width="428" height="502" key="FileChooserDialogImpl" timestamp="1604007282263">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602379582056" />
-    <state width="1874" height="284" key="GridCell.Tab.0.center" timestamp="1602379582055">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="2639" y="89" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604007282263" />
+    <state x="721" y="107" width="428" height="502" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602772297243" />
+    <state width="914" height="267" key="GridCell.Tab.0.bottom" timestamp="1604007283437">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="284" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602379582055" />
-    <state width="1874" height="284" key="GridCell.Tab.0.left" timestamp="1602379582055">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="914" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604007283437" />
+    <state width="1874" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602772298472" />
+    <state width="914" height="267" key="GridCell.Tab.0.center" timestamp="1604007283437">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="284" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602379582055" />
-    <state width="1874" height="284" key="GridCell.Tab.0.right" timestamp="1602379582056">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="914" height="267" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604007283437" />
+    <state width="1874" height="276" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602772298472" />
+    <state width="914" height="267" key="GridCell.Tab.0.left" timestamp="1604007283437">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="284" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602379582056" />
+    <state width="914" height="267" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604007283437" />
+    <state width="1874" height="276" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602772298472" />
+    <state width="914" height="267" key="GridCell.Tab.0.right" timestamp="1604007283437">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="267" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604007283437" />
+    <state width="1874" height="276" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602772298472" />
+    <state x="2804" y="90" width="1028" height="835" key="SettingsEditor" timestamp="1604005000657">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2804" y="90" width="1028" height="835" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604005000657" />
     <state x="285" y="125" width="1339" height="764" key="new project wizard" timestamp="1602379480785">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

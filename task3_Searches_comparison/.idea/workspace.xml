@@ -20,7 +20,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d055407-ff7f-4c38-bfa6-ee14a74575ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Searches_comparison.iml" beforeDir="false" afterPath="$PROJECT_DIR$/task3_Searches_comparison.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task1_linear_search/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2_binary_search/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task5_selection_sort/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task6_insertion_sort/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7_bubble_sort/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8_mergeSort/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9_quickSort/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_linear_search/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task1_linear_search/src/com/company/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2_binary_search/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task2_binary_search/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2_binary_search/out/production/task2_binary_search/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2_binary_search/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task2_binary_search/src/com/company/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task5_selection_sort/out/production/task4_testing_sort/com/company/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../task5_selection_sort/out/production/task4_testing_sort/com/company/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task5_selection_sort/out/production/task5_selection_sort/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task5_selection_sort/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task5_selection_sort/src/com/company/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task6_insertion_sort/out/production/task6_insertion_sort/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task6_insertion_sort/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task6_insertion_sort/src/com/company/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_bubble_sort/out/production/task7_bubble_sort/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_bubble_sort/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_bubble_sort/src/com/company/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task8_mergeSort/out/production/megreSort/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task8_mergeSort/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task8_mergeSort/src/com/company/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task9_quickSort/out/production/task9_quickSort/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task9_quickSort/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task9_quickSort/src/com/company/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +60,10 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task9_quickSort" />
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
@@ -45,53 +71,6 @@
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="task3_Searches_comparison" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="task3_Searches_comparison" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -123,8 +102,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1221" y="270" width="428" height="474" key="FileChooserDialogImpl" timestamp="1604008727330">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1221" y="270" width="428" height="474" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604008727330" />
     <state width="1874" height="284" key="GridCell.Tab.0.bottom" timestamp="1602382365432">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

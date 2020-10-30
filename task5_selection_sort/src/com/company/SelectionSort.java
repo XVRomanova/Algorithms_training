@@ -1,11 +1,11 @@
 package com.company;
 import static com.company.Test.allTest;
 
-public class Main {
+public class SelectionSort {
 
     public static void main(String[] args) {
 
-        allTest(Main::selectionSort);
+        allTest(SelectionSort::selectionSort);
 
     }
 
