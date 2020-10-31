@@ -14,9 +14,11 @@ public class BinarySearch {
 
     public static ArrayList<Integer> makeSortedArrayList(int N) {
         ArrayList<Integer> arrayList = new ArrayList<>();
+
         for (int i = 0; i < N; i++) {
             arrayList.add(i);
         }
+        
         return arrayList;
     }
 
@@ -28,16 +30,19 @@ public class BinarySearch {
         while (low <= high) {
             int mid = (low + high) / 2;
             int guess = arrayList.get(mid);
+
             if (guess == number) {
                 index = mid;
                 break;
             }
+
             if (guess < number) {
                 low = mid + 1;
             } else {
                 high = mid - 1;
             }
         }
+
         return index;
 
     }

@@ -24,6 +24,7 @@ public class LinearSearch {
 
     public static int linearSearch(ArrayList<Integer> list, int number) {
         int index = -1;
+
         for (int i = 0; i < list.size(); ++i) {
             if (list.get(i) == number) {
                 index = i;

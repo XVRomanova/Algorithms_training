@@ -7,20 +7,18 @@ import static com.company.Test.allTest;
 public class QuickSort {
 
     public static void main(String[] args) {
-
         allTest(QuickSort::quickSort);
-
     }
 
     public static int[] quickSort(int[] array) {
-        return innerQuickSort(array, 0, array.length-1);
+        return innerQuickSort(array, 0, array.length - 1);
     }
 
     private static int[] innerQuickSort(int[] array, int start, int end) {
         if (start < end) {
-            int dividingIndex = partition(array, start, end);
-            innerQuickSort(array, start, dividingIndex - 1);
-            innerQuickSort(array, dividingIndex, end);
+            int pivot = partition(array, start, end);
+            innerQuickSort(array, start, pivot - 1);
+            innerQuickSort(array, pivot, end);
         }
         return array;
     }
@@ -34,9 +32,11 @@ public class QuickSort {
             while (array[leftIndex] < pivot) {
                 leftIndex++;
             }
+
             while (array[rightIndex] > pivot) {
                 rightIndex--;
             }
+
             if (leftIndex <= rightIndex) {
                 int tmp = array[leftIndex];
                 array[leftIndex] = array[rightIndex];
@@ -45,7 +45,7 @@ public class QuickSort {
                 rightIndex--;
             }
         }
-        return leftIndex;
 
+        return leftIndex;
     }
 }
