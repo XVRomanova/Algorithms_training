@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="task7_bubble_sort:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/task7_bubble_sort_jar</output-path>
-    <root id="archive" name="task7_bubble_sort.jar">
-      <element id="module-output" name="task7_bubble_sort" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../task4_testing_sort/out/artifacts/task4_testing_sort_jar/task4_testing_sort.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>

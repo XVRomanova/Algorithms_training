@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/../task4_testing_sort/task4_testing_sort.iml" filepath="$PROJECT_DIR$/../task4_testing_sort/task4_testing_sort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/task5_selection_sort.iml" filepath="$PROJECT_DIR$/task5_selection_sort.iml" />
-    </modules>
-  </component>
-</project>
