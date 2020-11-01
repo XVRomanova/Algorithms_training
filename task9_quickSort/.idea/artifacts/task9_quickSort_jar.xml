@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="task9_quickSort:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/task9_quickSort_jar</output-path>
+    <root id="archive" name="task9_quickSort.jar">
+      <element id="module-output" name="task9_quickSort" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../task4_testing_sort/out/artifacts/task4_testing_sort_jar/task4_testing_sort.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

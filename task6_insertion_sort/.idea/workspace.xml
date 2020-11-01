@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="task6_insertion_sort:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d1ed2ae-d621-45d9-8e5a-df8dbf56847d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../task10_search_comparison/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task10_search_comparison/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_linear_search/src/com/company/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task1_linear_search/src/com/company/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2_binary_search/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task2_binary_search/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2_binary_search/src/com/company/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task2_binary_search/src/com/company/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_testing_sort/out/production/task4_testing_sort/com/company/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../task4_testing_sort/out/production/task4_testing_sort/com/company/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_testing_sort/src/com/company/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task4_testing_sort/src/com/company/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task5_selection_sort/out/production/task4_testing_sort/com/company/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../task5_selection_sort/out/production/task4_testing_sort/com/company/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task5_selection_sort/src/com/company/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task5_selection_sort/src/com/company/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_bubble_sort/src/com/company/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_bubble_sort/src/com/company/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task8_mergeSort/src/com/company/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task8_mergeSort/src/com/company/MergeSort.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1inTjukXax4bWjZQqmnkGJPHWRE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task7_bubble_sort" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="proofread" />
+  </component>
+  <component name="RunManager" selected="Application.InsertionSort">
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.InsertionSort" />
+      <module name="task6_insertion_sort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="task6_insertion_sort" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d1ed2ae-d621-45d9-8e5a-df8dbf56847d" name="Default Changelist" comment="" />
+      <created>1602542497195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602542497195</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="587" y="203" width="736" height="627" key="#Inspections" timestamp="1602612394444">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="587" y="203" width="736" height="627" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1602612394444" />
+    <state x="2593" y="190" width="529" height="405" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604000417278">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2593" y="190" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604000417278" />
+    <state x="675" y="208" width="529" height="405" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602613184321" />
+    <state x="786" y="247" width="328" height="480" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1602602720894">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="786" y="247" width="328" height="480" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602602720894" />
+    <state x="688" y="196" width="480" height="188" key="DetectedRootsChooserDialog" timestamp="1602612135080">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="688" y="196" width="480" height="188" key="DetectedRootsChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602612135080" />
+    <state x="677" y="-306" width="730" height="332" key="FileChooserDialogImpl" timestamp="1604171037473">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2445" y="315" width="730" height="332" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604000447328" />
+    <state x="677" y="-306" width="716" height="630" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1604171037473" />
+    <state width="935" height="377" key="GridCell.Tab.0.bottom" timestamp="1604000448261">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="935" height="377" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604000448261" />
+    <state width="1895" height="334" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602619878520" />
+    <state width="935" height="377" key="GridCell.Tab.0.center" timestamp="1604000448260">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="935" height="377" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604000448260" />
+    <state width="1895" height="334" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602619878518" />
+    <state width="935" height="377" key="GridCell.Tab.0.left" timestamp="1604000448260">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="935" height="377" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604000448260" />
+    <state width="1895" height="334" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602619878516" />
+    <state width="935" height="377" key="GridCell.Tab.0.right" timestamp="1604000448261">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="935" height="377" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604000448261" />
+    <state width="1895" height="334" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602619878519" />
+    <state width="1895" height="334" key="GridCell.Tab.1.bottom" timestamp="1602619878523">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1895" height="334" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602619878523" />
+    <state width="1895" height="334" key="GridCell.Tab.1.center" timestamp="1602619878521">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1895" height="334" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602619878521" />
+    <state width="1895" height="334" key="GridCell.Tab.1.left" timestamp="1602619878521">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1895" height="334" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602619878521" />
+    <state width="1895" height="334" key="GridCell.Tab.1.right" timestamp="1602619878522">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1895" height="334" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602619878522" />
+    <state x="2204" y="56" width="1237" height="679" key="SettingsEditor" timestamp="1604000421579">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2204" y="56" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604000421579" />
+    <state x="286" y="74" width="1237" height="679" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1602613213958" />
+    <state x="629" y="389" width="648" height="214" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1602602324970">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="629" y="389" width="648" height="214" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1602602324970" />
+    <state x="281" y="89" width="1339" height="764" key="new project wizard" timestamp="1602609205473">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="281" y="89" width="1339" height="764" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1602609205473" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="megreSort:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/megreSort_jar</output-path>
+    <root id="archive" name="megreSort.jar">
+      <element id="module-output" name="megreSort" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../task4_testing_sort/out/artifacts/task4_testing_sort_jar/task4_testing_sort.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
